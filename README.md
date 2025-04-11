@@ -8,7 +8,7 @@ Especializado en procesamiento de señales, aprendizaje automático y sistemas d
 
 ---
 <p align="center">
-  <img src="https://raw.githubusercontent.com/leopoldocarrocalvo/leopoldocarrocalvo/main/Baner_LCC.png" alt="Banner de Leopoldo Carro-Calvo">
+  <img src="https://raw.githubusercontent.com/leopoldocarrocalvo/leopoldocarrocalvo/main/Baner_LCC.png" alt="Banner de Leopoldo Carro-Calvo", width="85%">
 </p>
 
 ## Áreas de interés / Areas of Interest
