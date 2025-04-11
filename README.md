@@ -7,7 +7,7 @@ Especializado en procesamiento de señales, aprendizaje automático y sistemas d
 *Specialized in signal processing, machine learning, and telecommunications systems.*
 
 ---
-<p align="center">
+<p align="left">
   <img src="https://raw.githubusercontent.com/leopoldocarrocalvo/leopoldocarrocalvo/main/Baner_LCC.png" alt="Banner de Leopoldo Carro-Calvo", width="85%">
 </p>
 
