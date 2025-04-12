@@ -22,8 +22,8 @@ Especializado en procesamiento de señales, aprendizaje automático y sistemas d
 - **Aprendizaje automático aplicado a comunicaciones y modelado ambiental**  
   *Machine learning applied to communications and environmental modeling*
 
-- **Optimización evolutiva y técnicas heurísticas en ingeniería**  
-  *Evolutionary optimization and heuristic techniques in engineering*
+- **Optimización evolutiva y técnicas metaheurísticas en ingeniería**  
+  *Evolutionary optimization and metaheuristic techniques in engineering*
 
 - **Agrupamiento, reducción de dimensionalidad y análisis de series temporales**  
   *Clustering, dimensionality reduction, and time series analysis*
